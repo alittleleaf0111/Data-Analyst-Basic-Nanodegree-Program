@@ -1,20 +1,30 @@
 
-##  探索未来气候发展趋势
+##  探索美国共享单车数据
 
 ### 项目说明
 *
-    分析当地和全球温度数据，并将居住地的温度趋势与全球总体温度趋势对比。
+    利用 Python 探索与以下三大美国城市的自行车共享系统相关的数据：芝加哥、纽约和华盛顿特区。
 
 ### 使用工具
 *
-    SQL
+    Jupyter Notebook
 *
-    EXCEL
+    Python
 
 ### 文件说明
 *
-    Explore future climate trends.pdf ：分析报告
+    Chicago-Divvy-2016.csv ：芝加哥2016年骑行数据
 *
-    global_data.csv：全球气候数据
+    NYC-CitiBike-2016.csv：纽约2016年骑行数据
 *
-    guangzhou_data：广州气候数据
+    Washington-CapitalBikeshare-2016.csv：华盛顿2016年骑行数据
+*
+    Chicago-2016-Summary.csv：芝加哥整理后数据
+*
+    NYC-2016-Summary.csv：纽约整理后数据    
+*
+    Washington-2016-Summary.csv：华盛顿整理后数据
+*
+    Bike_Share_Analysis.ipynb：jupyter数据分析报告
+*
+    Bike_Share_Analysis.html：html格式报告
